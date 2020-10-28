@@ -1,9 +1,9 @@
 # GitHub - usage
 
-1. Generally, on branch per issue (read [branch-naming-convention](git-branch-naming-convention.md)).
+1. Generally, one branch per issue (read [branch-naming-convention](git-branch-naming-convention.md)).
 
     Lifecycle of the branch: create branch --> create PR --> review --> (apply changes) --> merge --> delete branch
-    - PR title: descrive in a few words what fix/implements this pull request
+    - PR title: describe in a few words what this pull request fixes/implements
     - PR description:
         - Include description and list of changes made
         - Expected behaviour
