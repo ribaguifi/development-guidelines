@@ -16,8 +16,8 @@
 
 When someone requests you a review of a PR:
 1. First of all, read and understand the specs and expected behaviour included on the PR description.
-2. Review and understand the changes of the code. If you are in a trouble and it's hard to understand it, request the author to refactor it (e.g. too complex methods, non descriptive variables names...).
-3. Test that code works as expected (it has the behaviour described by the specs).
+2. Review and understand the changes of the code (do not forget the code related to tests). If you are in a trouble and it's hard to understand it, request the author to refactor it (e.g. too complex methods, non descriptive variables names...).
+3. Test that code works as expected (it has the behaviour described by the specs). Besides normal use cases remeber to test [edge cases](https://en.wikipedia.org/wiki/Edge_case).
 4. If you found a bug:
     - Include the steps to reproduce it.
     - If it is a frontend issue include:
