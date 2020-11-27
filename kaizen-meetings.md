@@ -1,6 +1,7 @@
 # Kaizen meetings
 
-## [2020-30-10] django-debug-toolbar
+## [2020-10-30] django-debug-toolbar
+[**Santiago**](https://github.com/slamora)
 
 Una herramienta de depurado aplicada a optimizar DB queries
 
@@ -15,3 +16,18 @@ Después: ~2 seg renderizado, ~70 DB queries
 **Enlaces:**
   - <https://django-debug-toolbar.readthedocs.io/en/latest/>
   - <https://docs.djangoproject.com/en/3.1/ref/models/querysets/#select-related>
+
+
+## [2020-11-16] flutter
+[**Alejandro**](https://github.com/AlejandroRG31)
+
+Flutter is an open-source UI software development kit. It is used to develop applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia, and the web from a single codebase.
+
+https://flutter.dev/
+
+## [2020-11-27] Selenium
+[**Mònica**](https://github.com/dunetna)
+
+Selenium is a portable framework for testing web applications. Selenium provides a playback tool for authoring functional tests without the need to learn a test scripting language (Selenium IDE).
+
+https://www.selenium.dev/
