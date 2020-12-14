@@ -1,0 +1,1 @@
+https://mgdm.net/weblog/postgresql-in-a-nix-shell/
