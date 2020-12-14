@@ -45,6 +45,7 @@ Selenium is a portable framework for testing web applications. Selenium provides
 
 ## [2020-12-11] Nixpkgs
 [**Cayo**](https://github.com/cayop)
+
 [Nixpkgs](https://github.com/NixOS/nixpkgs) is the package manager of [Nixos](https://nixos.org/) this system is a reproducible, predictible and portable system.
 We can use it to share an environment on our team regardless of the operating system of each person on the team.
 
@@ -52,3 +53,4 @@ We can use it to share an environment on our team regardless of the operating sy
 - https://github.com/NixOS/nixpkgs
 - https://nixos.org/manual/nix/stable/
 - https://github.com/NixOS/nixpkgs/tree/master/doc/languages-frameworks
+- https://mgdm.net/weblog/postgresql-in-a-nix-shell/
