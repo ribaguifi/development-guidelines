@@ -1,7 +1,7 @@
 # Kaizen meetings
 
-## [2020-10-30] django-debug-toolbar
-[**Santiago**](https://github.com/slamora)
+## #1. django-debug-toolbar
+On **2020-10-30** by [Santiago](https://github.com/slamora)
 
 A debugging tool apllied to optimize DB queries.
 
@@ -18,15 +18,15 @@ After: ~2 sec to render, ~70 DB queries
   - <https://docs.djangoproject.com/en/3.1/ref/models/querysets/#select-related>
 
 
-## [2020-11-16] flutter
-[**Alejandro**](https://github.com/AlejandroRG31)
+## #2. flutter
+On **2020-11-16** by [Alejandro](https://github.com/AlejandroRG31)
 
 Flutter is an open-source UI software development kit. It is used to develop applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia, and the web from a single codebase.
 
 https://flutter.dev/
 
-## [2020-11-27] Selenium
-[**Mònica**](https://github.com/dunetna)
+## #3. Selenium
+On **2020-11-27** by [Mònica](https://github.com/dunetna)
 
 Selenium is a portable framework for testing web applications. Selenium provides a playback tool for authoring functional tests without the need to learn a test scripting language (Selenium IDE).
 
@@ -43,8 +43,8 @@ Selenium is a portable framework for testing web applications. Selenium provides
 - https://selenium-python.readthedocs.io/ (not official)
 
 
-## [2020-12-11] Nixpkgs
-[**Cayo**](https://github.com/cayop)
+## #4. Nixpkgs
+On **2020-12-11** by [Cayo](https://github.com/cayop)
 
 [Nixpkgs](https://github.com/NixOS/nixpkgs) is the package manager of [Nixos](https://nixos.org/) this system is a reproducible, predictible and portable system.
 We can use it to share an environment on our team regardless of the operating system of each person on the team.
