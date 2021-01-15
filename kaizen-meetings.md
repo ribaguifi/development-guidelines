@@ -67,6 +67,8 @@ Put the focus on the second quadrant
 
 Effectivity (do the important) VS Productivity (do lots of things)
 
+[4th generation agenda (fullsheet)](kaizen-meetings/agenda-4ta-generacion.ods)
+
 **References:**
 - **The 7 Habits of Highly Effective People**, *Stephen Covey*, 1989.
 - https://blog.trello.com/eisenhower-matrix-productivity-tool-trello-board
