@@ -54,3 +54,21 @@ We can use it to share an environment on our team regardless of the operating sy
 - https://nixos.org/manual/nix/stable/
 - https://github.com/NixOS/nixpkgs/tree/master/doc/languages-frameworks
 - https://mgdm.net/weblog/postgresql-in-a-nix-shell/
+
+
+## #5. How to apply Eisenhower matrix to priorize tasks
+On **2021-01-14** by [Santiago](https://github.com/slamora)
+
+![Urgent vs Important](kaizen-meetings/eisenhower-matrix.png "Eisenhower matrix")
+
+Urgent vs Important: *"What is important is seldom urgen and what is urgent is seldom important."*
+
+Put the focus on the second quadrant
+
+Effectivity (do the important) VS Productivity (do lots of things)
+
+**References:**
+- **The 7 Habits of Highly Effective People**, *Stephen Covey*, 1989.
+- https://blog.trello.com/eisenhower-matrix-productivity-tool-trello-board
+- https://luxafor.com/the-eisenhower-matrix/
+- https://woven.com/blog/the-eisenhower-matrix
