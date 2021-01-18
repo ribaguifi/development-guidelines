@@ -23,7 +23,18 @@ After: ~2 sec to render, ~70 DB queries
 
 Flutter is an open-source UI software development kit. It is used to develop applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia, and the web from a single codebase.
 
-https://flutter.dev/
+Flutter is based in the idea that every frontend component is a Widget, this means that every screen, container, button... is treated as an object which has attributes, contain other widgets and can do/call actions
+
+Flutter was made by google, and uses Dart as language and the main database used is Firebase both also made by google.
+
+Article with some example code: https://jelenaaa.medium.com/flutter-and-dart-examples-for-total-beginners-part-1-49db182ee9a1
+
+**Links:**
+- https://flutter.dev/
+- https://itsallwidgets.com/  (apps built with Flutter)
+- https://gallery.flutter.dev/  (gallery/api of lots of widgets)
+- https://dart.dev/
+- https://firebase.google.com/
 
 ## [2020-11-27] Selenium
 [**Mònica**](https://github.com/dunetna)
