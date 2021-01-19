@@ -61,7 +61,7 @@ On **2021-01-14** by [Santiago](https://github.com/slamora)
 
 ![Urgent vs Important](kaizen-meetings/eisenhower-matrix.png "Eisenhower matrix")
 
-Urgent vs Important: *"What is important is seldom urgen and what is urgent is seldom important."*
+Urgent vs Important: *"What is important is seldom urgent and what is urgent is seldom important."*
 
 Put the focus on the second quadrant
 
