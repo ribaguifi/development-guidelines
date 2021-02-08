@@ -68,7 +68,7 @@ We can use it to share an environment on our team regardless of the operating sy
 
 
 ## #5. How to apply Eisenhower matrix to priorize tasks
-On **2021-01-14** by [Santiago](https://github.com/slamora)
+On **2021-01-29** by [Santiago](https://github.com/slamora)
 
 ![Urgent vs Important](kaizen-meetings/eisenhower-matrix.png "Eisenhower matrix")
 
@@ -85,3 +85,18 @@ Effectivity (do the important) VS Productivity (do lots of things)
 - https://blog.trello.com/eisenhower-matrix-productivity-tool-trello-board
 - https://luxafor.com/the-eisenhower-matrix/
 - https://woven.com/blog/the-eisenhower-matrix
+
+
+## #6. Scrum and taiga.io
+On **2021-01-14** by [Mònica](https://github.com/dunetna)
+
+A brief intro to Scrum: roles, ceremonies and artifacts
+
+Slides: [scrum-taiga.pdf](kaizen-meetings/scrum-taiga.pdf)
+
+**References:**
+
+https://www.agilevideos.com/
+https://www.taiga.io/
+* SCRUM 101 Scrum basics - https://www.youtube.com/watch?v=aQrsVfjbQZ4
+* SCRUM 101 Scrum process - https://www.youtube.com/watch?v=29dnS7XGgqs
