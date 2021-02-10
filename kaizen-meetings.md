@@ -88,7 +88,7 @@ Effectivity (do the important) VS Productivity (do lots of things)
 
 
 ## #6. Scrum and taiga.io
-On **2021-01-14** by [Mònica](https://github.com/dunetna)
+On **2021-02-04** by [Mònica](https://github.com/dunetna)
 
 A brief intro to Scrum: roles, ceremonies and artifacts
 
