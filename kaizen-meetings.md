@@ -100,3 +100,10 @@ https://www.agilevideos.com/
 https://www.taiga.io/
 * SCRUM 101 Scrum basics - https://www.youtube.com/watch?v=aQrsVfjbQZ4
 * SCRUM 101 Scrum process - https://www.youtube.com/watch?v=29dnS7XGgqs
+
+
+## #7. Tryton
+On **2021-02-19** by [Simó](https://github.com/sim6)
+
+**References:**
+https://www.tryton.org/
