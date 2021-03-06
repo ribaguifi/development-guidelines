@@ -107,3 +107,18 @@ On **2021-02-19** by [Simó](https://github.com/sim6)
 
 **References:**
 https://www.tryton.org/
+
+## #8. RG team internal best practices
+On **2021-03-05** by [RG team](https://github.com/ribaguifi/)
+
+How can we improve our development workflow?
+- User Acceptance Tessts (UAT) --> [Selenium](https://www.selenium.dev/)
+- [Docker](https://docs.docker.com/) and [Docker compose](https://docs.docker.com/compose/) as development environment
+- Minimum Acceptable Code Coverage: **85%**
+- Flake8: be more restrictive with flake8 violations
+  - E9,F63,F7,F82: Python syntax errors or undefined names
+  - E501: line longer than 120 characters
+  - C901: complexity greater than 10
+  - F401: modules imported but unused
+  See: https://flake8.pycqa.org/en/latest/user/error-codes.html
+- Configure [GitHub issues templates](https://docs.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository)
