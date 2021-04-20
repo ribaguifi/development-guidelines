@@ -135,7 +135,7 @@ On **2021-04-16** by [Santiago](https://github.com/slamora)
 **Motivation**: code is written one time but readed dozens or hundreds of times; so let's help the people who reads the code! (probably it will be you a few months later!)
 
 ### Some tips & examples on Python
-1. Use descriptive names of variables:
+1. Follow [pep8 naming convention](https://pep8.org/#naming-conventions). E.g. Use descriptive names of variables:
 ```python
 p = 124   # bad
 product_price = 124   # better
