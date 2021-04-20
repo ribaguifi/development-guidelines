@@ -127,3 +127,72 @@ How can we improve our development workflow?
 On **2021-03-26** by [Pedro](https://gitlab.com/pedrolab/)
 
 presentation done with hedgedoc, test it live [here](https://demo.hedgedoc.org/47AcQ2gDQZiY8h9NiKoDgw#), more persitent and version controlled version [here](./kaizen-meetings/9-guia-supervivencia-docker.md)
+
+
+## #10. Clean Code
+On **2021-04-16** by [Santiago](https://github.com/slamora)
+
+**Motivation**: code is written one time but readed dozens or hundreds of times; so let's help the people who reads the code! (probably it will be you a few months later!)
+
+### Some tips & examples on Python
+1. Use descriptive names of variables:
+```python
+p = 124   # bad
+product_price = 124   # better
+```
+
+2. Reduce vertical distance:
+```python
+# original
+def method_foo():
+  product_items = [1, 2, 3]   # bad
+    extract()
+    sanitize()
+    validate()
+
+    # update values
+    for i in product_items:
+        process_item(i)
+```
+```python
+# after refactor
+def method_foo():
+    extract()
+    sanitize()
+    validate()
+
+    # update values
+    product_items = [1, 2, 3]   # better
+    for i in product_items:
+        process_item(i)
+```
+
+3. Avoid too complex methods. Tip: [flake8](https://flake8.pycqa.org/en/latest/) could help you to analyze your code!
+```bash
+$ flake8 . --max-complexity=10
+```
+
+4. Order class methods to help reading them from top to bottom:
+```python
+class Foo:
+    def save(self, *args, **kwargs):
+        self.do_something()
+
+    def do_something(self):
+        bla = 1234
+        foo = 5678
+        return bla * foo
+```
+
+5. Follow this approach while coding:
+  - Write tests,
+  - Write code that pass the tests and,
+  - Refactor, refactor, refactor until **your code is poetry**.
+
+6. Other tips shared by the participants
+  - Write first (as comments) what do you pretend to do and then code it.
+  - Write PRE and POST conditions of your methods and
+
+**References**
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.pearson.com/us/higher-education/program/Martin-Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/PGM63937.html) by *Robert C. Martin*. 2009. Pearson.
+- [The Art of Readable Code](https://www.oreilly.com/library/view/the-art-of/9781449318482/) by *Dustin Boswell, Trevor Foucher*. 2011. O'Reilly Media, Inc.
