@@ -191,7 +191,7 @@ class Foo:
 
 6. Other tips shared by the participants
   - Write first (as comments) what do you pretend to do and then code it.
-  - Write PRE and POST conditions of your methods and
+  - Write PRE and POST conditions of your methods and meet them.
 
 **References**
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.pearson.com/us/higher-education/program/Martin-Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/PGM63937.html) by *Robert C. Martin*. 2009. Pearson.
