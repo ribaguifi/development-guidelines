@@ -32,7 +32,7 @@ Recommended tools for optimizing python and specifically Django code:
 
 ### How to optimize code with cProfile + snakeviz
 1. Profile target code to be optimized with *cProfile*:
-```python -m cProfile -out original.prof run.py```
+```python -m cProfile -o original.prof run.py```
 
 2. Analyze profiling result using *snakeviz* (if you are confortable with cli you could use standard library [pstats module](https://docs.python.org/3/library/profile.html#module-pstats)):
 ```snakeviz original.prof```
@@ -40,7 +40,7 @@ Recommended tools for optimizing python and specifically Django code:
 3. Perform refactor and optimization (rembeber de 80/20 rule and put focus on the code which takes the major part of time)
 
 4. Run again *cProfile* to generate a new profile of the refactored code:
-```python -m cProfile -out refactored.prof run.py```
+```python -m cProfile -o refactored.prof run.py```
 
 5. Check profile and compare with previous one.
 
