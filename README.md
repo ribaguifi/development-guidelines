@@ -5,10 +5,6 @@
 Code style: [pep8](https://www.python.org/dev/peps/pep-0008/)
 
 
-## Development cicles
-https://basecamp.com/shapeup
-3 + 1 ???
-
 ## Repository branches
 https://trunkbaseddevelopment.com
 
