@@ -8,7 +8,7 @@
         - Include description and list of changes made
         - Expected behaviour
         - Screenshots (if changes affects **frontend**)
-2. One change/idea per commit (make history more readable and help reverting commits if there are wrong or innecesary changes).
+2. One change/idea per commit (make history more readable and help reverting commits if there are wrong or unnecesary changes).
 
 3. Keep up to date issues status. If they are solved, then close them. You can take avantage of the autoclose feature (e.g. adding an [keyword on the commit](https://github.blog/2013-01-22-closing-issues-via-commit-messages/) or in the [PR description](https://github.blog/2013-05-14-closing-issues-via-pull-requests/)).
 
