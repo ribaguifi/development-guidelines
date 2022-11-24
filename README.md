@@ -23,6 +23,7 @@ Test Driven Development.
 ## Code optimization
 Recommended tools for optimizing python and specifically Django code:
 - [django-debug-toolbar](https://django-debug-toolbar.readthedocs.io/) for use during development in combination with development server (`runserver`): allows debugging CPU time, SQL queries...
+  - Also, you can run `python manage.py runserver_plus --print-sql` to see all the SQL queries performed. More info at [runserver_plus](https://django-extensions.readthedocs.io/en/latest/runserver_plus.html)
 - [cProfile](https://docs.python.org/3/library/profile.html): to generate a set of statistics that describes how often and for how long various parts of the program executed.
 - [snakeviz](https://jiffyclub.github.io/snakeviz/): browser based graphical viewer for the output of Python’s cProfile module.
 
